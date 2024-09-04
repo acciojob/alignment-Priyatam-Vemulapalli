@@ -1,1 +1,46 @@
-/*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+.left{
+	text-align:left;
+}
+table.middle {
+	
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+table.middle td {
+    border: 1px solid black;
+	spacing: 1px;
+    padding: 5px;
+    text-align: left;
+}
+
+#table-1 {
+    width: 60%;
+}
+
+#table-2 {
+    width: 80%;
+}
+
+#table-3 {
+    width: 70%;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
