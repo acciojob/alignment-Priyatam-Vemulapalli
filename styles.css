@@ -2,6 +2,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.center-img{
+	align-items:center;
+}
+
 .center {
     text-align: center;
 }
@@ -21,8 +25,8 @@ table.middle {
 table.middle td {
     border: 1px solid black;
 	spacing: 1px;
-    padding: 5px;
-    text-align: left;
+    padding: 1px;
+
 }
 
 #table-1 {
@@ -30,11 +34,11 @@ table.middle td {
 }
 
 #table-2 {
-    width: 80%;
+    width: 60%;
 }
 
 #table-3 {
-    width: 70%;
+    width: 80%;
 }
 
 .green {
